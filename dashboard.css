@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    background-color:#fff;
+    max-width:85%;
+    margin:50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    border:4px groove black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);   
+    padding-top:40px;     
+    margin-top:30px;
+ 
+}
+h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+.dash{
+    width:85%;
+    float:right;
+}
